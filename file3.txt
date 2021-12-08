@@ -1,2 +1,2 @@
-
+line from user 2
 hello  good evening user1 master
